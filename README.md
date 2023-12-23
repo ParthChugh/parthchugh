@@ -30,6 +30,6 @@ I'm Parth Chugh, a passionate developer from India with experience in building r
 
 - Email: parthchugh52@gmail.com
 - LinkedIn: https://www.linkedin.com/in/parth-chugh/
-- Website: [Your website link]
+- Website: https://pcinsights.in/
 
 Feel free to reach out if you have any questions or just want to chat!
